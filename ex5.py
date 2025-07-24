@@ -1,3 +1,5 @@
+#Exercício de uma calculadora:
+
 print('CALCULADORA')
 print('+ Adição')
 print('- Subtração')
