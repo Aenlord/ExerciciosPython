@@ -1,3 +1,6 @@
+#Escreva um programa que leia os três lados de um triângulo, verifique se eles formam um triângulo válido e identifique seu tipo: equilátero, isósceles ou escaleno.
+
+
 A = float(input('Digite o primeiro lado do triângulo: '))
 B = float(input('Digite o segundo lado do triângulo: '))
 C = float(input('Digite o terceiro lado do triângulo: '))
