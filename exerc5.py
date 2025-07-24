@@ -17,3 +17,5 @@ elif (produto == 2):
 elif (produto == 3):
     pagar = qtd * 1.85
     print(f'Você comprou {qtd} bananas. Total à pagar: {pagar}')
+else:
+    print('Produto inexistente!')
